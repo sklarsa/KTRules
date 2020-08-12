@@ -1,0 +1,65 @@
+[
+    {
+        "Id": "MEMA",
+        "NameEn": "Mars",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Each time you randomly determine which Canticle of the Omnissiah is being canted, roll two dice instead of one.  Models in your kill team receive the benefits of both results, instead of just the result of the first dice (if a duplicate is rolled, no additional Canticle is canted this turn).",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "MEGR",
+        "NameEn": "Graia",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Roll a dice each time a model in your kill team is reduced to 0 wounds.  On a roll of 6, they are restored to 1 wound remaining.  In addition, models in your kill team pass Nerve tests on an unmodified roll of 6 (as well as an unmodified roll of 1).  However, models in your kill team cannot Retreat or Fall Back unless there is a COMMANDER from your kill team on the battlefield.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "MEME",
+        "NameEn": "Metallica",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Models in your kill team can shoot Rapid Fire weapons as if they were Assault weapons in the Shooting phase of a battle round in which they were Advanced (e.g. a Rapid Fire 1 weapon would be used as if it were an Assault 1 weapon).  In addition, these models do not suffer the penalty to their hit rolls for shooting Assault weapons during a battle round in which they Advanced.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "MELU",
+        "NameEn": "Lucius",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "When making saving throws for models in your kill team, treat enemy attacks with an Armour Penetration characteristic of -1 as having an Armour Penetration of 0.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "MEAG",
+        "NameEn": "Agripinaa",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "When a model in your kill team fires Overwatch, they successfully hit on a 5 or 6.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMST",
+        "NameEn": "Stygies VIII",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Models in your kill team are considered to be obscured to enemy models that target them if they are more than 12\" away from those models.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMRY",
+        "NameEn": "Ryza",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "You can re-roll wound rolls of 1 in the Fight phase for attacks made by models in your kill team.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    }
+]

@@ -1,6 +1,6 @@
 [
     {
-        "Id": "AMDA",
+        "Id": "AADA",
         "NameEn": "Dark Angels",
         "NameFr": "",
         "NameDe": "",
@@ -9,7 +9,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMWS",
+        "Id": "AAWS",
         "NameEn": "White Scars",
         "NameFr": "",
         "NameDe": "",
@@ -18,7 +18,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMIH",
+        "Id": "AAIH",
         "NameEn": "Iron Hands",
         "NameFr": "",
         "NameDe": "",
@@ -27,7 +27,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMU",
+        "Id": "AAU",
         "NameEn": "Ultramarines",
         "NameFr": "",
         "NameDe": "",
@@ -36,7 +36,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMBT",
+        "Id": "AABT",
         "NameEn": "Black Templars",
         "NameFr": "",
         "NameDe": "",
@@ -45,7 +45,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMSW",
+        "Id": "AASW",
         "NameEn": "Space Wolves",
         "NameFr": "",
         "NameDe": "",
@@ -54,7 +54,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMIF",
+        "Id": "AAIF",
         "NameEn": "Imperial Fists",
         "NameFr": "",
         "NameDe": "",
@@ -63,7 +63,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMBA",
+        "Id": "AABA",
         "NameEn": "Blood Angels",
         "NameFr": "",
         "NameDe": "",
@@ -72,7 +72,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMS",
+        "Id": "AAS",
         "NameEn": "Salamanders",
         "NameFr": "",
         "NameDe": "",
@@ -81,7 +81,7 @@
         "DescriptionDe": ""
     },
     {
-        "Id": "AMRG",
+        "Id": "AARG",
         "NameEn": "Raven Guard",
         "NameFr": "",
         "NameDe": "",
