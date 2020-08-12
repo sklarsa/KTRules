@@ -1,0 +1,47 @@
+[
+    {
+        "Id": "ASU",
+        "NameEn": "Ulthwe",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Roll a dice each time a model in your kill team loses a wound.  On a 6, the damage is ignored and the model does not lose a wound. If a model already has a similar ability, choose which effect applies, and re-roll 1s when making these rolls.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "ASSH",
+        "NameEn": "Saim-Hann",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "You can re-roll charge rolls for models in your kill team.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "ASA",
+        "NameEn": "Alaitoc",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Models in your kill team are considered to be obscured to enemy models that target them if they are more than 12\" away from those models.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "ASBT",
+        "NameEn": "Biel-Tan",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Add 1 to the Leadership characteristic of ASPECT WARRIORS in your kill team. In addition, you can re-roll hit rolls of 1 for shuriken weapons used by models in your kill team. A shuriken weapon is any weapon profile whose name includes the work 'shuriken' (e.g. shuriken pistol, Avenger shuriken catapult etc.). The ranged profile of a scorpion's claw is also a shuriken weapon.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "ASI",
+        "NameEn": "Iyanden",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "When you take Nerve test for a model in your kill team, roll a D3 (instead of a D6).",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    }
+]
