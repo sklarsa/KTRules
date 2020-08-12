@@ -1,0 +1,74 @@
+[
+    {
+        "Id": "AMCAD",
+        "NameEn": "Cadian",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Re-roll unmodified hit rolls of 1 in the Shooting phase for models in your kill team if they have not moved in this battle round.  If a model in your kill team is issued the \"Take Aim\" order and it has not moved in this battle round, re-roll all failed hit rolls for that model until the end of the phase instead.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMCAT",
+        "NameEn": "Catachan",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Add 1 to the Strength characteristic of models in your kill team.  In addition, add 1 to the Leadership characteristic of models in your kill team if they are within 6\" of a friendly CATACHAN OFFICER.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMVAL",
+        "NameEn": "Valhallan",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "When you take a Nerve test for a model in your kill team, roll a D3 (instead of a D6).",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMVOS",
+        "NameEn": "Vostroyan",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Models in your kill team do not suffer the penalty to hit rolls for their attacks that target enemy models at long range.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMARM",
+        "NameEn": "Armageddon",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Models in your kill team firing Rapid Fire weapons double the number of attacks they make if all of their targets are within 18\" (instead of half the weapon's Range characteristic).",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMTAL",
+        "NameEn": "Tallarn",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Models in your kill team can shoot in the Shooting phase even if they Advanced in the same battle round (with the exception of Heavy Weapons). In addition, these models do not suffer the penalty to their hit rolls for shooting Assault weapons during a battle round in which they Advanced.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMMT",
+        "NameEn": "Militarum Tempestus",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "If a model in your kill team targets an enemy model that is within range and not at long range when making a shooting attack, it can make an extra shot with the same weapon, at the same target, for each unmodified hit roll of 6.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMMOR",
+        "NameEn": "Mordian",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "If the base of a model in your kill team is touching the base of at least two other friendly MORDIAN models, add 1 to that model's Leadership characteristic, and when that model fires Overwatch they successfully hit on a roll of 5 or 6.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    }
+]
