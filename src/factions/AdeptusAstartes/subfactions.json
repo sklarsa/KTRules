@@ -1,0 +1,92 @@
+[
+    {
+        "Id": "AMDA",
+        "NameEn": "Dark Angels",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Re-roll unmodified hit rolls of 1 for attacks made with ranged weapons by models in your kill team (including when firing Overwatch) that have not moved in this battle round.  In addition, you can re-roll the dice to determine whether or not your kill team is broken in the Morale phase.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMWS",
+        "NameEn": "White Scars",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "When a model in your kill team Advances, add an additional 2\" to the distance it can move.  In addition, if a model in your kill team started the Movement phase within 1\" of an enemy model, but when you pick it to move there are no enemy models within 1\", that model can make a charge attempt instead of Falling Back or remaining stationary.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMIH",
+        "NameEn": "Iron Hands",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Roll a dice each time a model in your kill team loses a wound.  On a 6, the damage is ignored and the model does not lose a wound.  If a model already has a similar ability, choose which effect applies, and re-roll 1s when making these rolls.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMU",
+        "NameEn": "Ultramarines",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Add 1 to the Leadership characteristic of all models in your kill team.  In addition, models in your kill team can still shoot in a battle round in which they Retreated or Fell Back, but if they do so a 6 is always required for a successful hit roll, irrespective of the firing model's Ballistic Skill or any modifiers.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMBT",
+        "NameEn": "Black Templars",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "You can re-roll charge rolls for models in your kill team.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMSW",
+        "NameEn": "Space Wolves",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "In any battle round in which a model in your kill team charged, was charged or made a pile-in move granted by the Heroic Intervention Commander Tactic, add 1 to hit rolls for attacks made by that model in the Fight phase.  In addition, you can use the Herioc Intervention Commander Tactic if there are any enemy models within 6\" (rather than 3\") of your Commander, and when you do so they can make a pile-in move of 6\" (rather than 3\").",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMIF",
+        "NameEn": "Imperial Fists",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Models in your kill team do not suffer the penalty to Injury rolls for the target of their attacks being obscured and within 1\" of a model or piece of terrain that is between the two models.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMBA",
+        "NameEn": "Blood Angels",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "In any battle round in which a model in your kill team charged, was charged or made a pile-in move granted by the Heroic Intervention Tactic, add 1 to wound rolls for attacks made by that model in the Fight phase.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMS",
+        "NameEn": "Salamanders",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "You can re-roll a single failed hit roll and a single failed wound roll in each phase, as long as the attack was made by a model in your kill team.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    },
+    {
+        "Id": "AMRG",
+        "NameEn": "Raven Guard",
+        "NameFr": "",
+        "NameDe": "",
+        "DescriptionEn": "Models in your kill team are considered to be obscured to enemy models that target them if they are more than 12\" away from those models.",
+        "DescriptionFr": "",
+        "DescriptionDe": ""
+    }
+]
